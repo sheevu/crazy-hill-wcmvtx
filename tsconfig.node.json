@@ -1,6 +1,0 @@
-{
-  "compilerOptions": {
-    "types": ["vite/client"]
-  },
-  "include": ["vite.config.ts"]
-}
